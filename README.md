@@ -38,7 +38,7 @@ El modelo de datos incluye:
 *   `posicion`: Posición en el campo.
 *   `foto`: URL de la imagen de perfil.
 
-## ✒️ Autor
+##  Autor
 
 Desarrollado por **Iñaki Fernández** – https://github.com/InakiFernandez97
 
